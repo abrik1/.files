@@ -10,3 +10,8 @@ config files which i need.. this contains my emacs, vim, hyprland, dmenu and som
 > - company
 > - gruvbox-theme
 > - minimap
+
+# nvim config:
+
+> dependencies:
+> check init.lua
