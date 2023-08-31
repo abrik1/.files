@@ -13,5 +13,7 @@ config files which i need.. this contains my emacs, vim, hyprland, dmenu and som
 
 # nvim config:
 
+![master](2023-08-31-173601_714x702_scrot.png)
+
 > dependencies:
 > check init.lua
