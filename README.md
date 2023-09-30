@@ -14,6 +14,9 @@ config files which i need.. this contains my emacs, vim, hyprland, dmenu and som
 > - vertico
 > - rainbow-delimeters
 > - rainbow-mode
+> - eglot
+
+**NOTE:** tested on emacs 29..
 
 # nvim config:
 
