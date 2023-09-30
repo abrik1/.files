@@ -2,14 +2,18 @@
 config files which i need.. this contains my emacs, vim, hyprland, dmenu and some other configs...
 
 # emacs config:
-![master](Screenshot_2023-07-08_15-58-34.png)
+![master](2023-09-30-224144_660x607_scrot.png)
 
 > dependencies:
-> - doom-modeline
-> - lsp-mode
-> - company
-> - gruvbox-theme
-> - minimap
+> - nano-modeline
+> - catpuccin
+> - git-gutter
+> - git-gutter-fringe
+> - corfu
+> - marginalia
+> - vertico
+> - rainbow-delimeters
+> - rainbow-mode
 
 # nvim config:
 
